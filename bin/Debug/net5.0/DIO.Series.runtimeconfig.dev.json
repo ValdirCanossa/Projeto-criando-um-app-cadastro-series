@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\VALDIR\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\VALDIR\\.nuget\\packages"
+    ]
+  }
+}
